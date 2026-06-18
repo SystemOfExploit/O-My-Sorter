@@ -14,3 +14,5 @@ Guide for using:
 5. Wait, O-My-Sorter The sorter will find and save logs in ouutput txt.
 
 Latest Version: 1.0.0
+
+<img width="429" height="122" alt="{2B1BC0B4-CAAF-4077-A349-68C5CE01AC92}" src="https://github.com/user-attachments/assets/cce679ab-f850-4df5-8861-a4f9caf45593" />
