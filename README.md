@@ -11,7 +11,7 @@ Guide for using:
 2. Drop your txt with logs in to folder with O-My-Sorter.py
 3. Enter name of your txt file in O-My-Sorter.py
 4. Enter name of your output txt file in O-My-Sorter.py
-5. Wait, O-My-Sorter The sorter will find and save logs in ouutput txt.
+5. Wait, O-My-Sorter The sorter will find and save logs in output txt.
 
 Latest Version: 1.0.0
 
