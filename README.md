@@ -1,9 +1,9 @@
-# O-My-Sorter
+# Oh-My-Sorter
 
-O-My-Sorter this is sorter program write on Python 3.14.6.
+Oh-My-Sorter this is sorter program write on Python 3.14.6.
 Use only education purpose!
 
-O-My-Sorter looking for services like: "chatgpt.com", "gemini.google.com", "deepseek.com", "qwen.ai", "claude.ai", "cursor.com", "neverlose.cc", "skeet.cc", "gamesense.pub", "midnight.im", "memesense.gg", "interium.ooo", "xone.fun", "fatality.win", "nixware.cc", "iniuria.us", "futureclient.net", "rusherhack.org", "boze.dev", "mioclient.me", "roblox.com", "battle.net", "epicgames.com", "steamcommunity.com", "portmap.io", "playit.gg", "cloudpub.ru", "xtunnel.ru", "ngrok.com", "webrat.in", "webr.at", "webrat.uk", "webrat.eu", "mulvad.net", "protonvpn.com", "hide.mn", "nordvpn.com", "expressvpn.com", "github.com", "gitlab.com", "funpay.com", "lolz.live", "lzt.market", "lolz.guru", "zelenka.guru", "lolz.market", "zelenka.market", "ggsel.net".
+Oh-My-Sorter looking for services like: "chatgpt.com", "gemini.google.com", "deepseek.com", "qwen.ai", "claude.ai", "cursor.com", "neverlose.cc", "skeet.cc", "gamesense.pub", "midnight.im", "memesense.gg", "interium.ooo", "xone.fun", "fatality.win", "nixware.cc", "iniuria.us", "futureclient.net", "rusherhack.org", "boze.dev", "mioclient.me", "roblox.com", "battle.net", "epicgames.com", "steamcommunity.com", "portmap.io", "playit.gg", "cloudpub.ru", "xtunnel.ru", "ngrok.com", "webrat.in", "webr.at", "webrat.uk", "webrat.eu", "mulvad.net", "protonvpn.com", "hide.mn", "nordvpn.com", "expressvpn.com", "github.com", "gitlab.com", "funpay.com", "lolz.live", "lzt.market", "lolz.guru", "zelenka.guru", "lolz.market", "zelenka.market", "ggsel.net".
 
 Guide for using:
 
